@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "dummy extension",
+  "name": "Whatsup-chat translator",
   "version": "1.0",
   "description": "A simple Chrome extension example",
   "permissions": ["activeTab"],
